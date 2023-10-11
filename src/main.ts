@@ -1,4 +1,4 @@
-import { example } from './infinite_puff'
+import { infinite_puff } from './infinite_puff'
 import './style.css'
 
-example();
+infinite_puff();

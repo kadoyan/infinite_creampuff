@@ -1,7 +1,7 @@
 import Matter from "matter-js";
 import texture from "./images/creampuff.png";
 
-export const example = () => {
+export const infinite_puff = () => {
 
 	// module aliases
 	const Engine = Matter.Engine,
