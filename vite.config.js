@@ -5,7 +5,7 @@ export default defineConfig({
   build: {
     outDir: './docs',
     rollupOptions: {
-      external: ['matter-js']
+      // external: ['matter-js']
     },
   },
 })
